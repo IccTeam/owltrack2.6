@@ -1,6 +1,6 @@
-# OwlTrack Premium V2.5
+# OwlTrack Premium V2.6
 <details open>
-  <summary><strong> owltrack2.5 </strong></summary>
+  <summary><strong> owltrack2.6 </strong></summary>
 
 ![1001872613](https://github.com/user-attachments/assets/77d28987-8497-4cdc-bb6f-445fb9c540ad)
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
