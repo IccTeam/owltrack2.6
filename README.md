@@ -2,7 +2,8 @@
 <details open>
   <summary><strong> owltrack2.6 </strong></summary>
 
-![1001872613](https://github.com/user-attachments/assets/77d28987-8497-4cdc-bb6f-445fb9c540ad)
+![Uploading 1000102989.jpg…]()
+
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20,%20php%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-2.6-9cf"/>
