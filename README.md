@@ -204,6 +204,7 @@
 - 📸 Instagram: [@iccfficial](https://instagram.com/iccfficial)
 - ▶️ YouTube: [@iccfficial](https://www.youtube.com/@iccfficial)
 - 💻 GitHub: [IccTeam](https://github.com/IccTeam)
+- ✈️ Telegram: [OwlBird05](https://t.me/OwlBird05)
 
 📃 Baca [Ketentuan Layanan (Terms of Service)](TERMS.md)
 
