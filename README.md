@@ -218,5 +218,5 @@ Segala bentuk penyalahgunaan tool ini di luar tanggung jawab pengembang. Gunakan
 ---
 
 <p align="center">
-  <strong>💻 Developed & maintained with passion by Mr.OwlBird05</strong>
+  <strong>💻 Developed & maintained with passion by Mr.OwlBird05/Abid .Z</strong>
 </p>
