@@ -4,23 +4,18 @@
   <img src="https://github.com/user-attachments/assets/2ac93547-978d-44b8-af9a-a90b2200ddf4" width="350"/>
 </p>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Author-Mr.OwlBird05-blueviolet"/>
-  <img src="https://img.shields.io/badge/Tool-OwlTrack%20Premium-red"/>
-  <img src="https://img.shields.io/badge/Made%20with-Python%2C%20Bash%2C%20PHP%2C%20JavaScript-yellowgreen"/>
-  <img src="https://img.shields.io/badge/Version-2.6-9cf"/>
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/>
-  <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/>
-  <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/>
-  <img src="https://img.shields.io/github/stars/IccTeam/OwlTrack.svg?color=%23ff3300"/>
-  <img src="https://img.shields.io/github/license/IccTeam/OwlTrack.svg?color=%230000ff"/>
-</p>
-
-<hr>
-
+ <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
+<img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
+<img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-2.4-9cf"/>
+<img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/> <img
+<img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/> <img
+<img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/> <img
+<img src="https://img.shields.io/github/stars/IccTeam/OwlTrack.svg?color=%23ff3300"/> <img
+<img src="https://img.shields.io/github/license/IccTeam/OwlTrack.svg?color=%230000ff"/> <img
+</center>
+  </h2>
+  <hr>
+  
 ## 📌 Tentang
 
 **OwlTrack Premium v2.6** adalah kelanjutan dari proyek **OwlTrack** original — sebuah tool OSINT berbasis terminal yang telah disempurnakan dengan fitur pencarian informasi publik dan private melalui integrasi API, pemindaian target, hingga alat pentest ringan. Dirancang untuk keperluan investigasi, keamanan digital, dan edukasi OSINT.
