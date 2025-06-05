@@ -72,6 +72,8 @@
 - ▶️ YouTube: [@iccfficial](https://www.youtube.com/@iccfficial)
 - 💻 GitHub: [IccTeam](https://github.com/IccTeam)
 
+📃 Baca [Ketentuan Layanan (Terms of Service)](TERMS.md)
+
 ---
 
 ## ⚠️ Disclaimer
