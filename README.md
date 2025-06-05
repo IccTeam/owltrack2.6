@@ -66,14 +66,14 @@
 4. **NIK to Phone**  
    Melacak nomor HP yang terhubung dengan NIK tertentu (jika database tersedia).
 
-5. **Phone to NIK** *(akan diubah ke "Phone LeakOSINT")*  
-   Mendeteksi NIK berdasarkan nomor HP (investigasi data leak).
+5. **Phone NIK LeakOsint**  
+   Mendeteksi NIK & data lainnya berdasarkan nomor HP (investigasi data leak).
 
 6. **NIK Checker**  
    Verifikasi validitas format dan data dari NIK.
 
 7. **NIK Tracker**  
-   Melacak jejak digital NIK dalam data bocor atau platform OSINT.
+   Melacak lokasi dan kepemilikan NIK.
 
 8. **Get Phone Brand Using Number**  
    Deteksi merek/jenis perangkat dari nomor telepon (jika info tersedia).
@@ -141,8 +141,8 @@
 26. **CamPhish**  
     Social engineering akses kamera korban. ⚠️ Etis hanya untuk edukasi/pentest pribadi.
 
-27. **Span Lock Unlimited Pairing WA**  
-    Flood pairing WhatsApp untuk uji stabilitas WA.
+27. **Spam Lock Unlimited Pairing WA**  
+    Flood pairing WhatsApp Ke target yang sudah di tentukan.
 
 28. **Bug WhatsApp Chat** *(NEW)*  
     Bug untuk mengganggu UI/UX WA target (bisa crash/tampil rusak).
