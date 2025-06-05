@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/IccTeam/owltrack2.6?style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/last-commit/IccTeam/owltrack2.6?style=for-the-badge&color=orange" />
-  <img src="https://img.shields.io/github/downloads/IccTeam/owltrack2.6/total?style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/repo-size/IccTeam/owltrack2.6?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/v/release/IccTeam/owltrack2.6?color=blueviolet" />
+  <img src="https://img.shields.io/github/last-commit/IccTeam/owltrack2.6?color=orange" />
+  <img src="https://img.shields.io/github/downloads/IccTeam/owltrack2.6/total?color=green" />
+  <img src="https://img.shields.io/github/repo-size/IccTeam/owltrack2.6?color=yellow" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/license/IccTeam/OwlTrack?color=0000ff"/>
 </p>
 
----
+<hr>
 
 ## 📌 Tentang
 
