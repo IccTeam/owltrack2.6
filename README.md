@@ -4,26 +4,19 @@
   <img src="https://github.com/user-attachments/assets/2ac93547-978d-44b8-af9a-a90b2200ddf4" width="350"/>
 </p>
 
-<p align="center">
+<h2 align="center">
   <img src="https://img.shields.io/badge/Author-Mr.OwlBird05-blueviolet"/>
   <img src="https://img.shields.io/badge/Tool-OwlTrack%20Premium-red"/>
   <img src="https://img.shields.io/badge/Made%20with-Python%2C%20Bash%2C%20PHP%2C%20JavaScript-yellowgreen"/>
   <img src="https://img.shields.io/badge/Version-2.6-9cf"/>
-</p>
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/IccTeam/owltrack2.6?color=blueviolet" />
-  <img src="https://img.shields.io/github/last-commit/IccTeam/owltrack2.6?color=orange" />
-  <img src="https://img.shields.io/github/downloads/IccTeam/owltrack2.6/total?color=green" />
-  <img src="https://img.shields.io/github/repo-size/IccTeam/owltrack2.6?color=yellow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack?color=ff0000"/>
-  <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack?color=00cc00"/>
-  <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack?color=ffff00"/>
-  <img src="https://img.shields.io/github/stars/IccTeam/OwlTrack?color=ff3300"/>
-  <img src="https://img.shields.io/github/license/IccTeam/OwlTrack?color=0000ff"/>
+  <img src="https://img.shields.io/github/issues/IccTeam/OwlTrack.svg?color=%23ff0000"/>
+  <img src="https://img.shields.io/github/issues-closed/IccTeam/OwlTrack.svg?color=%2300cc00"/>
+  <img src="https://img.shields.io/github/forks/IccTeam/OwlTrack.svg?color=%23ffff00"/>
+  <img src="https://img.shields.io/github/stars/IccTeam/OwlTrack.svg?color=%23ff3300"/>
+  <img src="https://img.shields.io/github/license/IccTeam/OwlTrack.svg?color=%230000ff"/>
 </p>
 
 <hr>
