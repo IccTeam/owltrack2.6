@@ -127,7 +127,7 @@
     Berisi tools spam WhatsApp, email, SMS.
 
 26. **CamPhish**  
-    Social engineering akses kamera korban. ⚠️ Etis hanya untuk edukasi/pentest pribadi.
+    Social engineering akses kamera korban.
 
 27. **Spam Lock Unlimited Pairing WA**  
     Flood pairing WhatsApp Ke target yang sudah di tentukan.
