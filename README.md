@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Mr.OwlBird05-blueviolet"/>
-  <img src="https://img.shields.io/badge/Tool-OwlTrack-red"/>
+  <img src="https://img.shields.io/badge/Tool-OwlTrack%20Premium-red"/>
   <img src="https://img.shields.io/badge/Made%20with-Python%2C%20Bash%2C%20PHP%2C%20JavaScript-yellowgreen"/>
   <img src="https://img.shields.io/badge/Version-2.6-9cf"/>
 </p>
@@ -23,7 +23,7 @@
 
 ## 📌 Tentang
 
-**OwlTrack Premium v2.6** adalah tool OSINT dan audit ringan berbasis terminal untuk mengumpulkan informasi seputar nomor telepon serta aktivitas siber target tertentu. Didesain untuk keperluan investigasi, keamanan digital, serta edukasi OSINT.
+**OwlTrack Premium v2.6** adalah kelanjutan dari proyek **OwlTrack** original — sebuah tool OSINT berbasis terminal yang telah disempurnakan dengan fitur pencarian informasi publik dan private melalui integrasi API, pemindaian target, hingga alat pentest ringan. Dirancang untuk keperluan investigasi, keamanan digital, dan edukasi OSINT.
 
 ---
 
@@ -43,6 +43,18 @@
 
 ---
 
+## 💸 Price List Membership OwlTrack
+
+| Durasi | Harga (IDR) |
+|--------|-------------|
+| 🗓️ 1 Tahun | 180K |
+| 🗓️ 2 Tahun | 250K |
+| 🏷️ 3 Tahun (Promo) | 300K |
+
+> Hubungi admin untuk aktivasi dan akses premium.
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 - Python 🐍
@@ -52,21 +64,23 @@
 
 ---
 
-## ⚠️ Disclaimer
+## 📱 Kontak & Sosial Media
 
-> **Tool ini dibuat hanya untuk keperluan edukasi, penelitian keamanan, dan audit internal.  
-Dilarang keras menggunakan OwlTrack untuk tindakan ilegal atau merugikan pihak lain.  
-Segala bentuk penyalahgunaan adalah tanggung jawab pengguna.**
+- 👨‍💻 Owner/Dev: [WhatsApp](https://wa.me/6283848301116)
+- 🎵 TikTok: [@iccfficial](https://www.tiktok.com/@iccfficial)
+- 📸 Instagram: [@iccfficial](https://instagram.com/iccfficial)
+- ▶️ YouTube: [@iccfficial](https://www.youtube.com/@iccfficial)
+- 💻 GitHub: [IccTeam](https://github.com/IccTeam)
 
 ---
 
-## 📎 Catatan Tambahan
+## ⚠️ Disclaimer
 
-- 💡 Tool ini terus dikembangkan dan diperbarui untuk meningkatkan akurasi dan stabilitas.
-- 📫 Jika kamu memiliki saran, laporan bug, atau ingin berkontribusi, silakan buat issue atau pull request.
+> **OwlTrack Premium** dibuat **hanya untuk keperluan edukasi, penelitian keamanan, dan audit internal**.  
+Segala bentuk penyalahgunaan tool ini di luar tanggung jawab pengembang. Gunakan dengan bijak dan sesuai hukum yang berlaku.
 
 ---
 
 <p align="center">
-  <strong>💻 Made with passion by Mr.OwlBird05</strong>
+  <strong>💻 Developed & maintained with passion by Mr.OwlBird05</strong>
 </p>
