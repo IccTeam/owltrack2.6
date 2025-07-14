@@ -169,7 +169,7 @@
 | Durasi | Harga (IDR) |
 |--------|-------------|
 | 🗓️ 1 Tahun | 200K |
-| 🗓️ 2 Tahun | 250K |
+| 🗓️ 2 Tahun | 280K |
 | 🏷️ 3 Tahun (Promo) | 300K |
 
 > Hubungi admin untuk aktivasi dan akses premium.
