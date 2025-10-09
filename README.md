@@ -164,17 +164,29 @@
 
 </details>
 
-## 💸 Price List Membership OwlTrack
+# 💸 Price List OwlTrack
 
+## 🔑 Membership OwlTrack Tools + Bot
 | Durasi | Harga (IDR) |
 |--------|-------------|
 | 🗓️ 1 Tahun | 200K |
-| 🗓️ 2 Tahun | 280K |
-| 🏷️ 3 Tahun (Promo) | 300K |
+| 🗓️ 2 Tahun | 300K |
+| 🏷️ 4 Tahun (Promo) | 400K |
 
-> Hubungi admin untuk aktivasi dan akses premium.
+> ✅ Termasuk akses penuh OwlTrack Tools + Bot Premium  
+> 📩 Hubungi admin untuk aktivasi
 
 ---
+
+## 🤖 Sewa Bot OwlTrack Saja
+| Durasi | Harga (IDR) |
+|--------|-------------|
+| 📅 1 Bulan | 80K |
+| 📅 3 Bulan | 130K |
+| 📅 6 Bulan | 200K |
+| 📅 12 Bulan | 350K |
+
+> ⚡ Paket ini hanya untuk sewa bot OwlTrack (tanpa akses tools)
 
 ## 🛠️ Teknologi yang Digunakan
 
