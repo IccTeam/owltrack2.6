@@ -169,7 +169,7 @@
 ## 🔑 Membership OwlTrack Tools + Bot
 | Durasi | Harga (IDR) |
 |--------|-------------|
-| 🗓️ 1 Tahun | 250K |
+| 🗓️ 1 Tahun | 280K |
 | 🗓️ 2 Tahun | 330K |
 | 🏷️ 4 Tahun (Promo) | 400K |
 
