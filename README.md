@@ -170,7 +170,7 @@
 | Durasi | Harga (IDR) |
 |--------|-------------|
 | 🗓️ 1 Tahun | 280K |
-| 🗓️ 2 Tahun | 330K |
+| 🗓️ 2 Tahun | 350K |
 | 🏷️ 4 Tahun (Promo) | 400K |
 
 > ✅ Termasuk akses penuh OwlTrack Tools + Bot Premium  
