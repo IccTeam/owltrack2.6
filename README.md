@@ -173,7 +173,7 @@
 | 🗓️ 2 Tahun | 350K |
 | 🏷️ 4 Tahun (Promo) | 400K |
 
-> ✅ Termasuk akses penuh OwlTrack Tools + Bot Premium  
+> ✅ Termasuk akses penuh OwlTrack Tools + Bot Premium + OwlTrack Pro 
 > 📩 Hubungi admin untuk aktivasi
 
 ---
