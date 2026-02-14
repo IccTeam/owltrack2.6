@@ -166,7 +166,7 @@
 
 # 💸 Price List OwlTrack
 
-## 🔑 Membership OwlTrack Tools + Bot
+## 🔑 Membership OwlTrack Tools + Bot + OwlTrack Pro
 | Durasi | Harga (IDR) |
 |--------|-------------|
 | 🗓️ 1 Tahun | 280K |
