@@ -173,11 +173,11 @@
 | 🗓️ 2 Tahun | 350K |
 | 🏷️ 4 Tahun (Promo) | 400K |
 
-|Duration – Price (USD)|
-|--------|-------------|
-|🗓️ 1 Year | $18 |
-|🗓️ 2 Years | $23 |
-|🏷️ 4 Years (Promo) | $26 |
+| Duration | Price (USD) |
+|----------|------------|
+| 🗓️ 1 Year | $18 |
+| 🗓️ 2 Years | $23 |
+| 🏷️ 4 Years (Promo) | $26 |
 
 > ✅ Termasuk akses penuh OwlTrack Tools + Bot Premium + OwlTrack Pro 
 > 📩 Hubungi admin untuk aktivasi
